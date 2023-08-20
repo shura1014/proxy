@@ -1,0 +1,14 @@
+github.com/clbanning/mxj/v2 v2.7.0 h1:WA/La7UGCanFe5NpHF0Q3DNtnCsVoxbPKuyBNHWRyME=
+github.com/clbanning/mxj/v2 v2.7.0/go.mod h1:hNiWqW14h+kc+MdF9C6/YoRfjEJoR3ou6tn/Qo+ve2s=
+github.com/shura1014/acl v1.0.0 h1:tVJERWlqgQuDwH0AtGpUTS7ZYcs3r8qc8p0j0kLgGpU=
+github.com/shura1014/acl v1.0.0/go.mod h1:Cwl+sL1dIKZFjxIBZrfP2NeCQJ5EPFgBHKOwaAt/gJ4=
+github.com/shura1014/balance v1.0.0 h1:DF6KEbUEbAVnpDm4To5U7DS6ZEb2d2zm3dLuvZf7dcw=
+github.com/shura1014/balance v1.0.0/go.mod h1:cVJ00hQiAMDuUxHAIF+BkOg72iKwaMQUoE2mYQeaLAM=
+github.com/shura1014/common v1.0.1 h1:lnlQYel7u6FYiLt7c2iSNNXU5VK/oV6ejL2wPqokqLc=
+github.com/shura1014/common v1.0.1/go.mod h1:iTzLDUVaRxncI4Pw28oGxqWQyMAEzNagnihRW6Yntfo=
+github.com/shura1014/httpclient v0.0.0-20230819033928-25eb909c3d6c h1:dvrpli/CqBe7EgRiwuiD6u1Br1i6bf+srxlWi7nXWQA=
+github.com/shura1014/httpclient v0.0.0-20230819033928-25eb909c3d6c/go.mod h1:7QT5tMnYSXwwjZ4iZdRrHEZXPQiKegB1I0wSFcI4V/Y=
+github.com/shura1014/logger v1.0.1 h1:V/GATbrkNrZwOisEmaDYa2+cYlabpKLsWEsaX3cLf0w=
+github.com/shura1014/logger v1.0.1/go.mod h1:91X/NusZ0dNv6m+db56u14ZUWNADSzwxA2WqKdGZyAk=
+github.com/shura1014/task v1.0.0 h1:jmSRq3ncQ8fH8ra6+ZYuR6VsmBKdoPzNJCMIV9ZDa38=
+github.com/shura1014/task v1.0.0/go.mod h1:XFLHagpoKLMD+1JVIHKx2tuPaFu1nEoiSKBWX/DT0vc=
