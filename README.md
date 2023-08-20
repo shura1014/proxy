@@ -56,6 +56,7 @@ http {
 ## 启动
 
 可指定配置文件
+
 ./proxy -config ./etc/proxy.conf
 
 ```text
@@ -113,6 +114,7 @@ curl 127.0.0.1:9000/static/
 ## 黑名单
 
 curl \[::1]:9000/api/remoteIP
+
 Deny illegal access from ::1
 
 ## 健康检查测试
@@ -215,5 +217,7 @@ curl 127.0.0.1:9000/api/remoteIP
 例如
 
 balance weight
+
 server 127.0.0.1:8888 weight=2
+
 server 127.0.0.1:8889 weight=3
